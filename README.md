@@ -4,6 +4,7 @@ My name is Elizabeth, and I am a self-taught data analyst currently residing in 
 Currently, I am...
 - 🔭 Working on building more case studies!
 - 🌱 Learning Python, PostgreSQL
+- :memo: Putting a database together tracking my mood and what may be influencing it every day. I post updates weekly, so stay tuned! 
 
 :wrench: My Toolbox:
 
