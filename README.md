@@ -6,7 +6,7 @@ Currently, I am...
 - 🌱 Learning Python, PostgreSQL
 
 
-:wrench: My Toolbox:
+🔧My Toolbox:
 
 :chart_with_upwards_trend: Databases: SQL (MySQL, SQL Server, Google BigQuery), Excel, R
 
